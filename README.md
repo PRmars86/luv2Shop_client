@@ -1,5 +1,7 @@
 # Luv2ShopClient
 
+<img src="https://i.imgur.com/BCuUl5U.png">
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
